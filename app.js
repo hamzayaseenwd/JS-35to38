@@ -49,11 +49,34 @@
 
 // Q5
 
+
+function square(){
+
 var number = prompt("Enter Number");
 
 var squarenumber = number * number
 
 console.log(squarenumber)
 
+}
+
+square();
+
+
 // Q6
+
+
+
+
+
+
+
+
+
+// Q7
+
+
+
+
+
 
